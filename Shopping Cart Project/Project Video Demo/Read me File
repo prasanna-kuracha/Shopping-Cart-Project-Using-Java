@@ -1,0 +1,7 @@
+Shopping Cart Application (Java Swing & SQL)
+
+Developed a GUI-based shopping cart application using Java Swing for an interactive user experience.
+Integrated SQL database to store and manage product inventory dynamically.
+Designed categories like cosmetics and electronics, allowing users to browse and add products to the cart.
+Implemented an inventory management system that updates stock levels in real-time.
+Displayed an "Out of Stock" popup notification when a product's quantity reached zero.
